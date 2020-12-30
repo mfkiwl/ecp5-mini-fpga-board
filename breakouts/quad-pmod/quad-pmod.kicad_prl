@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 37,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -58,13 +58,12 @@
       31,
       32,
       36,
-      37,
-      38
+      37
     ],
-    "visible_layers": "004ffff_ffffffff"
+    "visible_layers": "002ffff_80000001"
   },
   "meta": {
-    "filename": "ecp5-mini.kicad_prl",
+    "filename": "quad-pmod.kicad_prl",
     "version": 2
   },
   "project": {
